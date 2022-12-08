@@ -29,14 +29,14 @@ For Help, reference the RangeMap.Java doc comments, which outline every aspect o
 RANGEMAP CLASS INSTRUCTIONS (not needed for running demo)
 
 1. Create a class and make sure ARange, RangeKey and RangeMap are in same directory, or imported into your project.
- ![image](picture0.png?raw=true)
+ ![image](Picture0.png)
 
 2. Instantiate a new RangeMap object and add your range start, range end, and the value or object you want that range of numbers to point to.
- ![image](picture1.png)
+ ![image](Picture1.png)
 
 
 3. Use RangeMap.get() to get your value from any number inside the range-key.
- ![image](picture2.png)
+ ![image](Picture2.png)
 
 As per the example in step 2, the rangemap will return a value of 1 since it is the assigned value for any key from 1000 to 2000.
 
