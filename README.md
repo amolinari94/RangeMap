@@ -8,6 +8,14 @@ The RangeMap has several use-cases where a range of values needs to point to a s
 
 Use JDK JavaDoc tool to view doc comments in rendered view
 
+DEMONSTRATION INSTRUCTIONS
+
+1.	create run configuration for 'Driver.java' and run program.
+
+2.	Follow prompts in command line for demonstrations of the RangeMap package.
+
+
+
 
 RANGEMAP CLASS INSTRUCTIONS (not needed for running demo)
 
