@@ -29,7 +29,7 @@ For Help, reference the RangeMap.Java doc comments, which outline every aspect o
 RANGEMAP CLASS INSTRUCTIONS (not needed for running demo)
 
 1. Create a class and make sure ARange, RangeKey and RangeMap are in same directory, or imported into your project.
- ![image](picture0.png)
+ ![image](picture0.png?raw=true)
 
 2. Instantiate a new RangeMap object and add your range start, range end, and the value or object you want that range of numbers to point to.
  ![image](picture1.png)
