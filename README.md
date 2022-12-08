@@ -7,5 +7,44 @@ interval of the RangeMap Object's keys, and then passes the Object key to the su
 The RangeMap has several use-cases where a range of values needs to point to a singular object or value.  The Object can be a primitive, Object, or another nested range/value pair.  When working with ranges in data, this allows the user to simulate and reference billions of key/value pairs at comparable efficiency to any other HashMap type.  RangeMap can also save system memory for instances where system storage is limited.  If the ranges in a RangeMap instance are in intervals of 1000, the storage size of the collection would be 1000x smaller than an equivalent set of key/value pairs.
 
 Use JDK JavaDoc tool to view doc comments in rendered view
-![image](https://user-images.githubusercontent.com/92828306/206587508-3b1f3eb1-4cb8-4434-960c-73970cf35189.png)
+
+
+RANGEMAP CLASS INSTRUCTIONS (not needed for running demo)
+
+1. Create a class and make sure ARange, RangeKey and RangeMap are in same directory, or imported into your project.
+ 
+
+2. Instantiate a new RangeMap object and add your range start, range end, and the value or object you want that range of numbers to point to.
+ 
+
+
+3. Use RangeMap.get() to get your value from any number inside the range-key.
+ 
+
+As per the example in step 2, the rangemap will return a value of 1 since it is the assigned value for any key from 1000 to 2000.
+
+
+
+For Help, reference the RangeMap.Java doc comments, which outline every aspect of the Collection in detail.
+RANGEMAP CLASS INSTRUCTIONS (not needed for running demo)
+
+1. Create a class and make sure ARange, RangeKey and RangeMap are in same directory, or imported into your project.
+ ![image](picture0.png)
+
+2. Instantiate a new RangeMap object and add your range start, range end, and the value or object you want that range of numbers to point to.
+ ![image](picture1.png)
+
+
+3. Use RangeMap.get() to get your value from any number inside the range-key.
+ ![image](picture2.png)
+
+As per the example in step 2, the rangemap will return a value of 1 since it is the assigned value for any key from 1000 to 2000.
+
+
+
+For Help, reference the RangeMap.Java doc comments, which outline every aspect of the Collection in detail.
+
+
+
+
 
