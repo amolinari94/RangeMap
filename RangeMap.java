@@ -98,7 +98,8 @@ public class RangeMap extends LinkedHashMap<ARange, Object> {
         try{
             long multiplier = _interval;
             long valueKey = Math.round( value /multiplier) * multiplier;
-			//val = (rangeStartSet.get(0)==0) ? (int)super.get(rangeSet.get((int)(valueKey/_interval))) : (int)super.get(rangeSet.get((int)(valueKey/_interval -1)));
+			//int keyIndex= valueKey/_interval;
+			//val = (rangeStartSet.get(0)==0) ? (int)super.get(rangeSet.get(keyIndex)) : (int)super.get(rangeSet.get(keyIndex-1)));
             if (rangeStartSet.get(0) == 0){
                 val = (int) super.get(rangeSet.get((int) (valueKey / _interval )));
             }
