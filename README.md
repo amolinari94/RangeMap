@@ -7,7 +7,7 @@ Use JDK JavaDoc tool to view doc comments in rendered view
 
 ## DEMONSTRATION INSTRUCTIONS
 
-1.	create run configuration for 'Driver.java' and run program.
+1.	Create run configuration for 'Driver.java' and run program.
 
 2.	Follow prompts in command line for demonstrations of the RangeMap package.
 
