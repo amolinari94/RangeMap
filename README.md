@@ -17,27 +17,9 @@ DEMONSTRATION INSTRUCTIONS
 
 
 
-
-RANGEMAP PACKAGE INSTRUCTIONS (not needed for running demo)
-
-1. Create a class and make sure ARange, RangeKey and RangeMap are in the same directory, or imported into your project.
- 
-
-2. Instantiate a new RangeMap object and add your range start, range end, and the value or object you want that range of values to point to.
- 
-
-
-3. Use RangeMap.get() to get your value from any number inside the range-key.
- 
-
-As per the example in step 2, the rangemap will return a value of 1 since it is the assigned value for any key from 1000 to 2000.
-
-
-
-
 RANGEMAP CLASS INSTRUCTIONS (not needed for running demo)
 
-1. Create a class and make sure ARange, RangeKey and RangeMap are in same directory, or imported into your project.
+1. Create a class and make sure ARange, RangeKey and RangeMap are in the same directory, or imported into your project.
  ![image](Picture0.png)
 
 2. Instantiate a new RangeMap object and add your range start, range end, and the value or object you want that range of numbers to point to.
