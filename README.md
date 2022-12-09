@@ -19,15 +19,15 @@ Use JDK JavaDoc tool to view doc comments in rendered view
 1. Create a class and make sure **ARange**, **RangeKey** and **RangeMap** are in the same directory, or imported into your project.
  ![image](Picture0.png)
 
-2. Instantiate a new **RangeMap** object and add your range start, range end, and the value or object you want that range of numbers to point to. RangeMap also has an alternate constructor that takes two parameters - an ARange object and a value - so the keys can be generated anonymously inside the RangeMap or elsewhere.
+2. Instantiate a new **RangeMap** object and add your range start, range end, and the value or object you want that range of numbers to point to. **RangeMap** also has an alternate constructor that takes two parameters - an **ARange** object and a value - so the keys can be generated anonymously inside the **RangeMap** or elsewhere.
  ![image](Picture1.png)
  
 
 
-3. Use RangeMap.get() to get your value from any number inside the range-key, and any key in the RangeMap.
+3. Use **RangeMap.get()** to get your value from any number inside the range-key, and any key in the **RangeMap**.
  ![image](Picture2.png)
 
-As per the example in step 2, the rangemap will return a value of 1 since it is the assigned value for any key from 1000 to 2000.
+As per the example in step 2, this map will return a value of 1 since it is the assigned value for any key from 1000 to 2000.
 
 
 
