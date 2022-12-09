@@ -5,7 +5,7 @@ The RangeMap has several use-cases where a numeric range needs to point to a sin
 
 Use JDK JavaDoc tool to view doc comments in rendered view
 
-DEMONSTRATION INSTRUCTIONS
+# DEMONSTRATION INSTRUCTIONS
 
 1.	create run configuration for 'Driver.java' and run program.
 
@@ -14,7 +14,7 @@ DEMONSTRATION INSTRUCTIONS
 
 
 
-RANGEMAP CLASS INSTRUCTIONS (not needed for running demo)
+# RANGEMAP PACKAGE INSTRUCTIONS (not needed for running demo)
 
 1. Create a class and make sure ARange, RangeKey and RangeMap are in the same directory, or imported into your project.
  ![image](Picture0.png)
@@ -31,7 +31,7 @@ As per the example in step 2, the rangemap will return a value of 1 since it is 
 
 
 
-For Help, reference the RangeMap.Java doc comments, which outline every aspect of the Collection in detail.
+# For Help, reference the RangeMap.Java doc comments, which outline every aspect of the Collection in detail.
 
 
 
