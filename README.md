@@ -34,7 +34,7 @@ As per the example in step 2, the rangemap will return a value of 1 since it is 
 
 
 
-For Help, reference the RangeMap.Java doc comments, which outline every aspect of the Collection in detail.
+
 RANGEMAP CLASS INSTRUCTIONS (not needed for running demo)
 
 1. Create a class and make sure ARange, RangeKey and RangeMap are in same directory, or imported into your project.
