@@ -20,10 +20,10 @@ DEMONSTRATION INSTRUCTIONS
 
 RANGEMAP CLASS INSTRUCTIONS (not needed for running demo)
 
-1. Create a class and make sure ARange, RangeKey and RangeMap are in same directory, or imported into your project.
+1. Create a class and make sure ARange, RangeKey and RangeMap are in the same directory, or imported into your project.
  
 
-2. Instantiate a new RangeMap object and add your range start, range end, and the value or object you want that range of numbers to point to.
+2. Instantiate a new RangeMap object and add your range start, range end, and the value or object you want that range of values to point to.
  
 
 
