@@ -18,7 +18,7 @@ DEMONSTRATION INSTRUCTIONS
 
 
 
-RANGEMAP CLASS INSTRUCTIONS (not needed for running demo)
+RANGEMAP PACKAGE INSTRUCTIONS (not needed for running demo)
 
 1. Create a class and make sure ARange, RangeKey and RangeMap are in the same directory, or imported into your project.
  
