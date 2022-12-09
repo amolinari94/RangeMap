@@ -5,6 +5,7 @@ import java.util.ArrayList;
  * ABSTRACT CLASS ARange is a simple class that holds a 'range' of numbers by storing the start and end values that the user specifies.
  *
  * @author Alex Molinari
+ * @version 1.0
  */
 public abstract class ARange {
     public Integer _start;
