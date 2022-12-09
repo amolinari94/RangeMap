@@ -26,7 +26,7 @@ RANGEMAP CLASS INSTRUCTIONS (not needed for running demo)
  ![image](Picture1.png)
 
 
-3. Use RangeMap.get() to get your value from any number inside the range-key.
+3. Use RangeMap.get() to get your value from any number inside the range-key, and any key in the RangeMap.
  ![image](Picture2.png)
 
 As per the example in step 2, the rangemap will return a value of 1 since it is the assigned value for any key from 1000 to 2000.
