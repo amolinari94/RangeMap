@@ -9,6 +9,7 @@ import java.util.LinkedHashMap;
  * The numbers within the range do not have to be stored, and only one value is linked to each {@code ARange} key.
  *
  * @author Alex Molinari
+ * @version 1.0
  */
 
 public class RangeMap extends LinkedHashMap<ARange, Object> {
