@@ -8,9 +8,9 @@ Use JDK JavaDoc tool to view doc comments in rendered view
 ## DEMONSTRATION INSTRUCTIONS
 
 1.	Open Driver.java in your IDE.
-2. Ensure ARange, RangeKey, RangeMap are imported into your project and accessable by Driver.java.
-3. Create run configuration for 'Driver.java',  and run program.
-4.	Follow prompts in command line for demonstrations of the RangeMap package.
+2. Ensure **ARange**, **RangeKey**, and **RangeMap** are imported into your project and accessable by **Driver.java**.
+3. Create run configuration for **Driver.java**,  and run program.
+4.	Follow prompts in command line for demonstrations of the **RangeMap** package.
 
 
 
