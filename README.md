@@ -17,7 +17,7 @@ Use JDK JavaDoc tool to view doc comments in rendered view
 
 ## RANGEMAP PACKAGE INSTRUCTIONS (not needed for running demo)
 
-1. Create a class and make sure **ARange**, **RangeKey** and **RangeMap** are imported into your class.
+1. Create a class and import **ARange**, **RangeKey** and **RangeMap**.
  ![image](Picture0.png)
 
 2. Instantiate a new **RangeMap** object and add your range start, range end, and the value or object you want that range of numbers to point to. **RangeMap** also has an alternate constructor that takes two parameters - an **ARange** object and a value - so the keys can be generated anonymously inside the **RangeMap** or elsewhere.
